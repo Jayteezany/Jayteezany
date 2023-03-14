@@ -1,6 +1,6 @@
 # Hello there; welcome 👋🏾
 
-I'm a Software Engineer and Community Engineer who currently works at Altschool Africa school of engineering. I'm passionate about sharing knowledge, documentation, web engineering, I create technical content (on my [Blog](https://bolajiayodeji.com/), build useful [open-source projects](https://github.com/jayteezany), speak at some meetups and conferences, build technical communities.
+I'm a Software Engineer and Community Engineer who currently works at Altschool Africa school of engineering. I'm passionate about sharing knowledge, documentation, web engineering, I am on facebook (on my [Facebook](https://uchempaulinus.com/), build useful [open-source projects](https://github.com/jayteezany), speak at some meetups and conferences, build technical communities.
 
 **Here's a quick summary about me**:
 
