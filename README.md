@@ -107,14 +107,7 @@ Name | Badges
 
 ✅ Good communication skills.
 
-<hr> -->
 
-### ❤ Views and Followers.
-
-<a href="https://github.com/succynice/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=succynice">
-</a>
-<a href="https://github.com/succynice?tab=followers"><img src="https://img.shields.io/github/followers/succynice?label=Followers&style=social" alt="GitHub Badge"></a>
 
 
 
