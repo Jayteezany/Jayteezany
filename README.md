@@ -31,12 +31,8 @@ I'm a Software Engineer and Product Designer.
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)<!-- CSS3 -->
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)<!-- JS -->
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&color=FFD43B)<!-- PYTHON -->
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&color=3178C6)<!-- TS -->
-[![Markdown](https://img.shields.io/static/v1?label=&message=Markdown&color=f4f4f4&logo=Markdown&logoColor=f2f2f2&labelColor=2F333A)](https://www.markdownguide.org/)<!-- Markdown -->
 [![SQL](https://img.shields.io/static/v1?label=SQL&message=SQL&color=4479A1&logo=SQL&logoColor=4479A1&labelColor=E8E8E8)](https://www.w3schools.com/sql/)<!-- sql -->
 <!-- [![Python](https://img.shields.io/static/v1?label=&message=Python&color=FFD43B&logo=python&logoColor=3776AB&labelColor=2F333A)](https://www.python.org)<!-- python-->
-<!--[![TypeScript](https://img.shields.io/static/v1?label=&message=TypeScript&color=3178C6&logo=TypeScript&logoColor=3178C6&labelColor=2F333A)](https://www.typescriptlang.org/)<!-- TS -->
-<!--[![VBA Visual Basic for Applications](https://img.shields.io/static/v1?label=&message=VBA&color=258FFA&logo=Microsoft&logoColor=258FFA&labelColor=2F333A)](https://docs.microsoft.com/en-us/office/vba/api/overview/)<!-- VBA --><!-- no logo-->
 
 ### Environment
 
