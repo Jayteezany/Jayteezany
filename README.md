@@ -1,20 +1,15 @@
 
 # Hello there; welcome 👋🏾
 
-<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=19&lines=A+Front-end+Web+Developer+from+Nigeria)](https://git.io/typing-svg) -->
-
-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/uchem paulinus)](https://www.linkedin.com/in/uchempaulinus) [![![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/qr/PV4HGIUPUYF3F1) [!(https://www.instagram.com/uchempaulinus)
-
 I'm a Software Engineer and Product Designer.
 
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning JavaScript, Reactjs, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](#) and contact me by emailing uchempaulinus@gmail.com.
+- 📫 You can contact me by emailing uchempaulinus@gmail.com.
 
 > skills
 <!-- skill badges -->
